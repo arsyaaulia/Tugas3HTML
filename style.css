@@ -1,10 +1,16 @@
 body{
     background-color:gray;
     color:white;
+    margin-left:50px;
+    margin-right:50px;
 }
 h1{
     text-align: center;
 }
 .awal-kalimat{
     color:black;
+}
+
+.kucing{
+    align-items: center;
 }
